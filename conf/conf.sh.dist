@@ -5,5 +5,5 @@
 #
 
 DB_WORLD_CUSTOM_PATHS+=(
-    $MOD__MOD_NPCGAMBLER_ROOT"/sql/world/"
+    $MOD_NPCGAMBLER_ROOT"/sql/world/"
 )
